@@ -15,13 +15,20 @@ El tablero visual está diseñado para la toma de decisiones gerenciales y opera
 3. **Actualización:** El archivo `.pbix` consumirá los datos transformados de la vista de forma automática al presionar "Actualizar".
 
 ###Conexión
-![Captura de conexión a BD](img/captura1.png)
+
+![Captura de conexión a BD](img/captura1.jpg)
+
 ###Estructura de la vista en SQL Server Managment Studio
-![DB](img/captura2.png) 
-![Store Procedur](img/captura3.png) 
-![View](img/captura4.png)
+
+![DB](img/captura2.jpg) 
+
+![Store Procedure](img/captura3.jpg) 
+
+![View](img/captura4.jpg)
+
 ###Vista del Dasboard 
-![Dashboard](img/captura5.png) 
+
+![Dashboard](img/captura5.jpg) 
 
 
 
